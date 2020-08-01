@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Word Cards</string>
+    <string name="hint">Hint</string>
+    <string name="title_activity_mem">MemActivity</string>
+    <string name="vocabulary_description">Choose the length of the word.You need to rearrange the letters
+        to make a meaningful word.You can use hint from the menu.
+    </string>
+    <string name="memory_description">Choose the length of the word.You need to memorise each words and input them in the correct order.
+    </string>
+    <string name="voc_word">Click on the below alphabets and find the hidden word</string>
+
+    <string name="ad_id_memory" translatable="false">ca-app-pub-2579135590725888/4669072245</string>
+    <string name="ad_id_vocabulary" translatable="false">ca-app-pub-2579135590725888/8972167383</string>
+    <string name="ad_id_inter" translatable="false">ca-app-pub-2579135590725888/8009551450</string>
+    <string name="app_id">ca-app-pub-2579135590725888~3575482428</string>
+
+    <string name="ad_id_math">ca-app-pub-2579135590725888/7443780522</string>
+    <string name="ad_id_hint">ca-app-pub-2579135590725888/6638019213</string>
+    <string name="maths_description">Add the given numbers and select answer.</string>
+    <string name="colour_description">If colour matches the given word press right else press wrong</string>
+
+</resources>

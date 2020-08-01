@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/MAINLAYOUT2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/alphabet"
+    android:orientation="vertical"
+    tools:context=".LevelActivity">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="0.5"
+        android:gravity="center"
+        android:text="Select word length"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/Level5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_blue_bright"
+        android:text="5 LETTERS" />
+
+    <Button
+        android:id="@+id/Level6"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_green_light"
+        android:text="6 LETTERS" />
+
+    <Button
+        android:id="@+id/Level7"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_orange_light"
+        android:text="7 LETTERS" />
+
+    <Button
+        android:id="@+id/Level8"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_purple"
+        android:text="8 LETTERS" />
+
+    <Button
+        android:id="@+id/Level9"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_red_light"
+        android:text="9 LETTERS" />
+</LinearLayout>

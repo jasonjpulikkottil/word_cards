@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MathActivity" >
+
+    <item
+        android:id="@+id/math_menu"
+        android:icon="@drawable/bulb"
+        android:orderInCategory="100"
+        android:title="@string/hint"
+        app:showAsAction="always" />
+
+</menu>
