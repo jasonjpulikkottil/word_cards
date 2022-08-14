@@ -5,3 +5,4 @@
 
 
 - A vocabulary game made in android studio.
+- Developed by Jason J Pulikkottil
